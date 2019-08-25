@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9CCE5D9A-E9A5-4805-9C31-B35C605A26E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VidlyMVC/Controllers/CustomersController.cs">
+    <Files>
+      <File FileName="VidlyMVC/Views/Movies/Random.cshtml" Line="24" Column="31" />
+      <File FileName="VidlyMVC/Views/Shared/_Layout.cshtml" />
+      <File FileName="VidlyMVC/Controllers/CustomersController.cs" Line="24" Column="1" />
+      <File FileName="VidlyMVC/Models/Customer.cs" />
+      <File FileName="VidlyMVC/Controllers/MoviesController.cs" />
+      <File FileName="VidlyMVC/Views/Customers/Index.cshtml" />
+      <File FileName="VidlyMVC/Views/Customers/Details.cshtml" />
+      <File FileName="VidlyMVC/Views/Movies/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VidlyMVC" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VidlyMVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
